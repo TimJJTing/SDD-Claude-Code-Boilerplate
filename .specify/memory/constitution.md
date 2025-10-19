@@ -299,7 +299,7 @@ When encountering issues or bugs:
 - Use GitHub MCP to search for similar issues in relevant repositories
 - Look for known bugs, workarounds, or discussions
 - Check both open and closed issues
-- If the issue can bd solved with a workaround, notify human developer with known risks and ask for approval before proceeding
+- If the issue can be solved with a workaround, notify human developer with known risks and ask for approval before proceeding
 
 ### 3. When to Document Issues
 - If issue remains unsolvable after steps 1-2, create a bug report
